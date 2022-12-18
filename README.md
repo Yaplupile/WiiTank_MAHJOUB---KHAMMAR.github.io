@@ -2,7 +2,7 @@ Jeu WiiTank Version Web Programmé en JS
 
 Controles : 
 
-Fleches Directionels pour ce Deplacer
+Fleches Directionels pour ce deplacer
 Souris pour tirer 
 
 Ce qui a été programmé : 
